@@ -1,0 +1,64 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "admin@riwi.io",
+      "nameCompany": "Riwi",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "2035",
+      "email": "admin@google.com",
+      "nameCompany": "Google",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "2e56",
+      "nameCompany": "sigga",
+      "email": "vic@riwi.io",
+      "password": "12456",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "123456"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Desarrollador Front-End",
+      "experience": "47",
+      "salary": "1200",
+      "locarion": "London",
+      "modality": "Remote",
+      "description": "Chief Executive Officer (CEO)",
+      "date": ""
+    },
+    {
+      "id": "af3c",
+      "title": "adad",
+      "experience": "2",
+      "salary": "2",
+      "location": "adadsa",
+      "modality": "Remote",
+      "description": "adada",
+      "jobId": "2e56",
+      "nameCompanyId": "sigga",
+      "imageCompanyID": "",
+      "publicationDate": "2024-02-12"
+    },
+    {
+      "id": "02e1",
+      "title": "adad",
+      "experience": "2",
+      "salary": "2",
+      "location": "adadsa",
+      "modality": "Remote",
+      "description": "Remote",
+      "jobId": "2e56",
+      "nameCompanyId": "sigga",
+      "imageCompanyID": "",
+      "publicationDate": "2024-02-12"
+    }
+  ]
+}
